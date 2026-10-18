@@ -15,7 +15,7 @@ $ cat focus
 platforms, delivery pipelines, security that doesn't slow people down
 
 $ cat interests
-homelab, 3D printing, ESP32/IoT, EVE Online (the handle is not an accident)
+homelab, 3D printing, ESP32/IoT, EVE Online
 ```
 
 I like infrastructure that nobody has to think about. Most of what's here started as an itch at home or at work and got turned into something reusable. If a homelab rack and a tangle of YAML make you happy, we'll get along.
@@ -38,13 +38,13 @@ Public repos only. The bigger stuff is behind someone else's login.
 
 **Platform and developer experience**
 - [composable](https://github.com/voidrot/composable): a library of Docker Compose fragments and a CLI to stitch them together, so local setups stop drifting.
-- [md-flux](https://github.com/voidrot/md-flux): syncs markdown docs to Confluence, so docs live next to the code.
+- [md-flux](https://github.com/voidrot/md-flux): syncs markdown docs to Confluence.
 - [gchat-action](https://github.com/voidrot/gchat-action): a GitHub Action that posts to Google Chat.
 - [dag-sync](https://github.com/voidrot/dag-sync): pulls Airflow DAGs from S3 to the local filesystem.
 - [charts](https://github.com/voidrot/charts) and [containers](https://github.com/voidrot/containers): Helm charts and container images I maintain.
 
 **AI and agents**
-- [waygate](https://github.com/voidrot/waygate): a living wiki inspired by Andrej Karpathy's recent workflow experiments.
+- [waygate](https://github.com/voidrot/waygate): a living knowledge workspace where LLM agents ingest, synthesize and curate technical notes.
 - [promptbench](https://github.com/voidrot/promptbench): a CLI for testing and refining agent prompts and tool-calling skills.
 - [openai-featherless-compatible](https://github.com/voidrot/openai-featherless-compatible): an AI SDK wrapper that turns tool calls emitted as plain text into real function calls.
 - [godot-mcp](https://github.com/voidrot/godot-mcp) and [kan-mcp](https://github.com/voidrot/kan-mcp): MCP servers for Godot and Kan.bn.
