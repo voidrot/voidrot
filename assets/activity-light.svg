@@ -1,23 +1,23 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="446" viewBox="0 0 1000 446" role="img" aria-labelledby="t d">
   <title id="t">Public GitHub activity for voidrot</title>
-  <desc id="d">18 public repos. Languages by bytes: TypeScript 53.4%, Python 34.3%, HTML 4.6%, GDScript 4.6%, CSS 1.6%, JavaScript 0.5%, Other 0.9%.</desc>
+  <desc id="d">18 public repos. Languages by bytes: TypeScript 55.9%, Python 31.3%, HTML 4.9%, GDScript 4.8%, CSS 1.7%, JavaScript 0.6%, Other 1.0%.</desc>
   <rect x="0.5" y="0.5" width="999" height="445" rx="12" fill="#f4f9ff" stroke="#dbe6f2"/>
   <g font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif">
     <text x="56" y="70" font-size="32" font-weight="700" fill="#0c1a2a">Public work</text>
     <text x="944" y="70" font-size="20" fill="#4a5d72" text-anchor="end">18 repos, no forks or archives</text>
     <text x="56" y="114" font-size="18" fill="#b8620f" letter-spacing="1">LANGUAGES BY BYTES</text>
     <clipPath id="c"><rect x="56" y="130" width="888" height="18" rx="9"/></clipPath>
-    <g clip-path="url(#c)"><rect x="56" y="130" width="474.55" height="18" fill="#2f5fd0"/><rect x="530.55" y="130" width="304.72" height="18" fill="#0b7f5e"/><rect x="835.27" y="130" width="41.17" height="18" fill="#b8620f"/><rect x="876.45" y="130" width="40.5" height="18" fill="#6a4fd6"/><rect x="916.95" y="130" width="14.23" height="18" fill="#0b7f99"/><rect x="931.18" y="130" width="4.73" height="18" fill="#b83a74"/><rect x="935.91" y="130" width="8.09" height="18" fill="#5b6b7d"/></g>
-    <circle cx="63" cy="187" r="7" fill="#2f5fd0"/><text x="80" y="194" font-size="20" fill="#0c1a2a">TypeScript <tspan fill="#4a5d72">53.4%</tspan></text>
-    <circle cx="285" cy="187" r="7" fill="#0b7f5e"/><text x="302" y="194" font-size="20" fill="#0c1a2a">Python <tspan fill="#4a5d72">34.3%</tspan></text>
-    <circle cx="507" cy="187" r="7" fill="#b8620f"/><text x="524" y="194" font-size="20" fill="#0c1a2a">HTML <tspan fill="#4a5d72">4.6%</tspan></text>
-    <circle cx="729" cy="187" r="7" fill="#6a4fd6"/><text x="746" y="194" font-size="20" fill="#0c1a2a">GDScript <tspan fill="#4a5d72">4.6%</tspan></text>
-    <circle cx="63" cy="225" r="7" fill="#0b7f99"/><text x="80" y="232" font-size="20" fill="#0c1a2a">CSS <tspan fill="#4a5d72">1.6%</tspan></text>
-    <circle cx="285" cy="225" r="7" fill="#b83a74"/><text x="302" y="232" font-size="20" fill="#0c1a2a">JavaScript <tspan fill="#4a5d72">0.5%</tspan></text>
-    <circle cx="507" cy="225" r="7" fill="#5b6b7d"/><text x="524" y="232" font-size="20" fill="#0c1a2a">Other <tspan fill="#4a5d72">0.9%</tspan></text>
+    <g clip-path="url(#c)"><rect x="56" y="130" width="496.63" height="18" fill="#2f5fd0"/><rect x="552.63" y="130" width="277.59" height="18" fill="#0b7f5e"/><rect x="830.22" y="130" width="43.09" height="18" fill="#b8620f"/><rect x="873.3" y="130" width="42.39" height="18" fill="#6a4fd6"/><rect x="915.69" y="130" width="14.9" height="18" fill="#0b7f99"/><rect x="930.59" y="130" width="4.95" height="18" fill="#b83a74"/><rect x="935.53" y="130" width="8.47" height="18" fill="#5b6b7d"/></g>
+    <circle cx="63" cy="187" r="7" fill="#2f5fd0"/><text x="80" y="194" font-size="20" fill="#0c1a2a">TypeScript <tspan fill="#4a5d72">55.9%</tspan></text>
+    <circle cx="285" cy="187" r="7" fill="#0b7f5e"/><text x="302" y="194" font-size="20" fill="#0c1a2a">Python <tspan fill="#4a5d72">31.3%</tspan></text>
+    <circle cx="507" cy="187" r="7" fill="#b8620f"/><text x="524" y="194" font-size="20" fill="#0c1a2a">HTML <tspan fill="#4a5d72">4.9%</tspan></text>
+    <circle cx="729" cy="187" r="7" fill="#6a4fd6"/><text x="746" y="194" font-size="20" fill="#0c1a2a">GDScript <tspan fill="#4a5d72">4.8%</tspan></text>
+    <circle cx="63" cy="225" r="7" fill="#0b7f99"/><text x="80" y="232" font-size="20" fill="#0c1a2a">CSS <tspan fill="#4a5d72">1.7%</tspan></text>
+    <circle cx="285" cy="225" r="7" fill="#b83a74"/><text x="302" y="232" font-size="20" fill="#0c1a2a">JavaScript <tspan fill="#4a5d72">0.6%</tspan></text>
+    <circle cx="507" cy="225" r="7" fill="#5b6b7d"/><text x="524" y="232" font-size="20" fill="#0c1a2a">Other <tspan fill="#4a5d72">1.0%</tspan></text>
     <text x="56" y="292" font-size="18" fill="#b8620f" letter-spacing="1">LAST PUSHED</text>
   </g>
-  <text x="56" y="334" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="20" fill="#0c1a2a">md-flux</text><text x="944" y="334" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="20" fill="#4a5d72" text-anchor="end">2026-10-18</text>
+  <text x="56" y="334" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="20" fill="#0c1a2a">3d-designs</text><text x="944" y="334" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="20" fill="#4a5d72" text-anchor="end">2026-10-18</text>
   <text x="56" y="370" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="20" fill="#0c1a2a">godot-mcp</text><text x="944" y="370" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="20" fill="#4a5d72" text-anchor="end">2026-10-18</text>
-  <text x="56" y="406" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="20" fill="#0c1a2a">3d-designs</text><text x="944" y="406" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="20" fill="#4a5d72" text-anchor="end">2026-10-05</text>
+  <text x="56" y="406" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="20" fill="#0c1a2a">md-flux</text><text x="944" y="406" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="20" fill="#4a5d72" text-anchor="end">2026-10-18</text>
 </svg>
