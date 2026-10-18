@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220" role="img" aria-labelledby="t d">
+  <title id="t">Buck Brady (voidrot), Senior DevSecOps Engineer</title>
+  <desc id="d">I build the boring, reliable parts so teams can ship the interesting ones.</desc>
+  <rect width="1000" height="220" rx="12" fill="#f4f9ff"/>
+  <g stroke="#dbe6f2" stroke-width="1" fill="none">
+    <path d="M0 55H1000M0 110H1000M0 165H1000"/>
+    <path d="M250 0V220M500 0V220M750 0V220"/>
+  </g>
+  <rect x="48" y="52" width="6" height="132" rx="3" fill="#b8620f"/>
+  <g font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif">
+    <text x="76" y="98" font-size="52" font-weight="700" fill="#0c1a2a">Buck Brady</text>
+    <text x="76" y="138" font-size="28" font-weight="600" fill="#2f5fd0">Senior DevSecOps Engineer</text>
+    <text x="76" y="176" font-size="22" fill="#4a5d72">I build the boring, reliable parts so teams can ship the interesting ones.</text>
+  </g>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="20" text-anchor="end">
+    <text x="952" y="52" fill="#0b7f5e">voidrot@homelab:~$</text>
+    <text x="952" y="76" fill="#4a5d72">k8s / terraform / go / rust</text>
+  </g>
+</svg>
