@@ -1,23 +1,23 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="446" viewBox="0 0 1000 446" role="img" aria-labelledby="t d">
   <title id="t">Public GitHub activity for voidrot</title>
-  <desc id="d">19 public repos. Languages by bytes: TypeScript 53.0%, Python 29.3%, Go 4.6%, HTML 4.6%, GDScript 4.5%, CSS 1.6%, Other 2.6%.</desc>
+  <desc id="d">18 public repos. Languages by bytes: TypeScript 46.6%, Python 28.6%, Go 11.2%, HTML 4.4%, Kotlin 3.3%, Vue 3.2%, Other 2.7%.</desc>
   <rect x="0.5" y="0.5" width="999" height="445" rx="12" fill="#091018" stroke="#15212e"/>
   <g font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif">
     <text x="56" y="70" font-size="32" font-weight="700" fill="#e8f1fb">Public work</text>
-    <text x="944" y="70" font-size="20" fill="#8fa3b8" text-anchor="end">19 repos, no forks or archives</text>
+    <text x="944" y="70" font-size="20" fill="#8fa3b8" text-anchor="end">18 repos, no forks or archives</text>
     <text x="56" y="114" font-size="18" fill="#f2a54a" letter-spacing="1">LANGUAGES BY BYTES</text>
     <clipPath id="c"><rect x="56" y="130" width="888" height="18" rx="9"/></clipPath>
-    <g clip-path="url(#c)"><rect x="56" y="130" width="470.45" height="18" fill="#6d9bff"/><rect x="526.45" y="130" width="259.91" height="18" fill="#34d3a3"/><rect x="786.36" y="130" width="40.8" height="18" fill="#f2a54a"/><rect x="827.16" y="130" width="40.41" height="18" fill="#a58bff"/><rect x="867.57" y="130" width="39.69" height="18" fill="#4cc3e0"/><rect x="907.26" y="130" width="14.03" height="18" fill="#e57aa6"/><rect x="921.29" y="130" width="22.71" height="18" fill="#5b6b7d"/></g>
-    <circle cx="63" cy="187" r="7" fill="#6d9bff"/><text x="80" y="194" font-size="20" fill="#e8f1fb">TypeScript <tspan fill="#8fa3b8">53.0%</tspan></text>
-    <circle cx="285" cy="187" r="7" fill="#34d3a3"/><text x="302" y="194" font-size="20" fill="#e8f1fb">Python <tspan fill="#8fa3b8">29.3%</tspan></text>
-    <circle cx="507" cy="187" r="7" fill="#f2a54a"/><text x="524" y="194" font-size="20" fill="#e8f1fb">Go <tspan fill="#8fa3b8">4.6%</tspan></text>
-    <circle cx="729" cy="187" r="7" fill="#a58bff"/><text x="746" y="194" font-size="20" fill="#e8f1fb">HTML <tspan fill="#8fa3b8">4.6%</tspan></text>
-    <circle cx="63" cy="225" r="7" fill="#4cc3e0"/><text x="80" y="232" font-size="20" fill="#e8f1fb">GDScript <tspan fill="#8fa3b8">4.5%</tspan></text>
-    <circle cx="285" cy="225" r="7" fill="#e57aa6"/><text x="302" y="232" font-size="20" fill="#e8f1fb">CSS <tspan fill="#8fa3b8">1.6%</tspan></text>
-    <circle cx="507" cy="225" r="7" fill="#5b6b7d"/><text x="524" y="232" font-size="20" fill="#e8f1fb">Other <tspan fill="#8fa3b8">2.6%</tspan></text>
+    <g clip-path="url(#c)"><rect x="56" y="130" width="413.93" height="18" fill="#6d9bff"/><rect x="469.93" y="130" width="253.7" height="18" fill="#34d3a3"/><rect x="723.63" y="130" width="99.1" height="18" fill="#f2a54a"/><rect x="822.73" y="130" width="39.44" height="18" fill="#a58bff"/><rect x="862.18" y="130" width="29.65" height="18" fill="#4cc3e0"/><rect x="891.83" y="130" width="28.02" height="18" fill="#e57aa6"/><rect x="919.84" y="130" width="24.16" height="18" fill="#5b6b7d"/></g>
+    <circle cx="63" cy="187" r="7" fill="#6d9bff"/><text x="80" y="194" font-size="20" fill="#e8f1fb">TypeScript <tspan fill="#8fa3b8">46.6%</tspan></text>
+    <circle cx="285" cy="187" r="7" fill="#34d3a3"/><text x="302" y="194" font-size="20" fill="#e8f1fb">Python <tspan fill="#8fa3b8">28.6%</tspan></text>
+    <circle cx="507" cy="187" r="7" fill="#f2a54a"/><text x="524" y="194" font-size="20" fill="#e8f1fb">Go <tspan fill="#8fa3b8">11.2%</tspan></text>
+    <circle cx="729" cy="187" r="7" fill="#a58bff"/><text x="746" y="194" font-size="20" fill="#e8f1fb">HTML <tspan fill="#8fa3b8">4.4%</tspan></text>
+    <circle cx="63" cy="225" r="7" fill="#4cc3e0"/><text x="80" y="232" font-size="20" fill="#e8f1fb">Kotlin <tspan fill="#8fa3b8">3.3%</tspan></text>
+    <circle cx="285" cy="225" r="7" fill="#e57aa6"/><text x="302" y="232" font-size="20" fill="#e8f1fb">Vue <tspan fill="#8fa3b8">3.2%</tspan></text>
+    <circle cx="507" cy="225" r="7" fill="#5b6b7d"/><text x="524" y="232" font-size="20" fill="#e8f1fb">Other <tspan fill="#8fa3b8">2.7%</tspan></text>
     <text x="56" y="292" font-size="18" fill="#f2a54a" letter-spacing="1">LAST PUSHED</text>
   </g>
-  <text x="56" y="334" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="20" fill="#e8f1fb">chorecast</text><text x="944" y="334" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="20" fill="#8fa3b8" text-anchor="end">2026-10-31</text>
+  <text x="56" y="334" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="20" fill="#e8f1fb">chorecast</text><text x="944" y="334" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="20" fill="#8fa3b8" text-anchor="end">2026-11-01</text>
   <text x="56" y="370" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="20" fill="#e8f1fb">3d-designs</text><text x="944" y="370" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="20" fill="#8fa3b8" text-anchor="end">2026-10-18</text>
-  <text x="56" y="406" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="20" fill="#e8f1fb">godot-mcp</text><text x="944" y="406" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="20" fill="#8fa3b8" text-anchor="end">2026-10-18</text>
+  <text x="56" y="406" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="20" fill="#e8f1fb">md-flux</text><text x="944" y="406" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="20" fill="#8fa3b8" text-anchor="end">2026-10-18</text>
 </svg>
